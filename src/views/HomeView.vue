@@ -6,7 +6,7 @@
 </template>
 
 <script>
-// @ is an alias to /srcaa
+// @ is an alias to /srcaadsds
 import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
